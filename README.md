@@ -7,4 +7,4 @@ You can use it on https://hamutan86.pythonanywhere.com/PyProtector
 💻 Professional Obfuscation Method<br>
 # Disclaimer
 Only Works in Python >= 3.10<br>
-Doesn't works on PyPy, CPython is stable way
+Doesn't work on PyPy, CPython is stable way
